@@ -22,7 +22,3 @@ This project treats every pixel in an image as a data point in a 3D RGB space. B
 3. Upload your images (e.g., `Kenjaku.jpg`, `Gojo.png`) when prompted.
 4. Type the filename of the specific image you want to analyze.
 5. The tool will output the visual palette and the corresponding Hex codes.
-
-## Future Improvements
-* Add an "Elbow Method" graph to programmatically determine the optimal number of colors.
-* Implement an export feature to save the palette as a `.png` or `.json` file.
